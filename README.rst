@@ -23,6 +23,8 @@ Description
 
 Python analysis code for dichalcogenide systems.
 
+Considered unstable and in development until version 1.0.0 is released.
+
 Installation
 ------------
 
