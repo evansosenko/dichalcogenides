@@ -3,5 +3,9 @@
 nose2
 pylint
 setuptools-lint
+sphinx
+sphinx-autobuild
+sphinx_rtd_theme
 twine
+watchdog
 wheel
