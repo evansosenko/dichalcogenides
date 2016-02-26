@@ -1,7 +1,7 @@
 Dichalcogenides
 =======================
 
-|PyPI| |GitHub-license| |Requires.io| |Travis|
+|PyPI| |GitHub-license| |Requires.io| |Travis| |Documentation|
 
     Built from `makenew/python-package <https://github.com/makenew/python-package>`__.
 
@@ -17,6 +17,9 @@ Dichalcogenides
 .. |Travis| image:: https://img.shields.io/travis/razor-x/dichalcogenides.svg
    :target: https://travis-ci.org/razor-x/dichalcogenides
    :alt: Travis
+.. |Documentation| image:: https://readthedocs.org/projects/dichalcogenides/badge/?version=latest
+   :target: http://dichalcogenides.readthedocs.org/en/latest/?badge=latest
+   :alt: Documentation Status
 
 Description
 -----------
