@@ -7,4 +7,8 @@ This change log follows the conventions of
 
 ## [Unreleased][Unreleased]
 
+## 0.1.0 / 2016-03-8
+
+- Initial release.
+
 [Unreleased]: https://github.com/razor-x/dichalcogenides/compare/v0.1.0...HEAD
