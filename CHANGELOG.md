@@ -7,6 +7,8 @@ This change log follows the conventions of
 
 ## [Unreleased][Unreleased]
 
+## [0.2.0] / 2016-04-27
+
 ### Added
 
 - Add CircleCI.
@@ -29,4 +31,5 @@ This change log follows the conventions of
 
 - Initial release.
 
-[Unreleased]: https://github.com/razor-x/dichalcogenides/compare/v0.1.0...HEAD
+[Unreleased]: https://github.com/razor-x/dichalcogenides/compare/v0.2.0...HEAD
+[0.2.0]: https://github.com/razor-x/dichalcogenides/compare/v0.1.0...v0.2.0
