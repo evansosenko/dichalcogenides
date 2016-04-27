@@ -38,6 +38,8 @@ class Energy():
         α = τ * σ
         return 0.5 * (λ * α + n * sqrt((2 * at * k)**2 + (Δ - λ * α)**2))
 
+    # TODO: Raise error when e is out of range given n.
+    # pylint: disable=unused-argument
     def k(self, e, n, τ, σ):
         """Inverse energy-momentum relation.
 

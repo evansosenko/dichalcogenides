@@ -12,6 +12,10 @@ This change log follows the conventions of
 - Add Makefile.
 - Add docutils and pygments to development dependencies.
 
+### Fixed
+
+- Minor changes to get pylint passing.
+
 ### Changed
 
 - Add semver constraints to dependencies.

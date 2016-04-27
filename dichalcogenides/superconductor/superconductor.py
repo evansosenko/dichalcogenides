@@ -42,7 +42,8 @@ class Superconductor():
 
     @property
     def λk_bounds(self):
-        ξ = self._energy.ξ_bounds
+        # TODO: Improve bound estimate using chemical potential.
+        # ξ = self._energy.ξ_bounds
         return lambda Δk: (-10 * Δk, 10 * Δk)
 
     @property

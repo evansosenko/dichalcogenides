@@ -1,7 +1,3 @@
-import scipy.constants
-
-from . import Energy
-
 class Topology():
     """Dichalcogenide topological properties.
 

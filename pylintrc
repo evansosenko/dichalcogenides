@@ -4,7 +4,18 @@ init-hook='import sys; sys.path.insert(0, os.path.abspath("dichalcogenides"))'
 
 [MESSAGES CONTROL]
 
-disable=missing-docstring,multiple-statements,attribute-defined-outside-init,invalid-name
+disable=
+  attribute-defined-outside-init,
+  fixme,
+  invalid-name,
+  locally-disabled,
+  missing-docstring,
+  multiple-statements,
+  too-few-public-methods
+
+[SIMILARITIES]
+
+min-similarity-lines=5
 
 [TYPECHECK]
 
