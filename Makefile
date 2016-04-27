@@ -3,6 +3,9 @@ all: docs lint test
 docs:
 	@python setup.py build_sphinx
 
+livedocs:
+	@sphinx-autobuild -b html docs docs/_build/html
+
 lint:
 	@python setup.py lint
 
