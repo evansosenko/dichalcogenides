@@ -7,6 +7,10 @@ This change log follows the conventions of
 
 ## [Unreleased][Unreleased]
 
+### Added
+
+- Add docutils and pygments to development dependencies.
+
 ### Changed
 
 - Add semver constraints to dependencies.
