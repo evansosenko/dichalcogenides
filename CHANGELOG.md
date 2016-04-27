@@ -13,6 +13,10 @@ This change log follows the conventions of
 - Add Makefile.
 - Add docutils and pygments to development dependencies.
 
+### Changed
+
+- Simplify Sphinx build files.
+
 ### Fixed
 
 - Minor changes to get pylint passing.
