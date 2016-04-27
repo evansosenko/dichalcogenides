@@ -32,7 +32,7 @@ if os.environ.get('READTHEDOCS') == 'True':
         def __getattr__(cls, name):
             return Mock()
 
-    MOCK_MODULES = ['numpy', 'scipy']
+    MOCK_MODULES = ['numpy', 'scipy', 'scipy.constants']
     sys.modules.update((mod_name, Mock()) for mod_name in MOCK_MODULES)
 
 # -- General configuration ------------------------------------------------
