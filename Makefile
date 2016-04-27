@@ -1,3 +1,5 @@
+all: lint test
+
 docs:
 	@python setup.py build_sphinx
 
