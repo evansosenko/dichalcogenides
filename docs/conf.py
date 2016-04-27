@@ -40,7 +40,7 @@ extensions = [
     'sphinx.ext.todo',
     'sphinx.ext.coverage',
     'sphinx.ext.mathjax',
-    'sphinx.ext.viewcode',
+    # 'sphinx.ext.viewcode', # NOTE: Does not work with utf8 characters.
 ]
 
 # Add any paths that contain templates here, relative to this directory.
