@@ -1,4 +1,4 @@
-all: lint test
+all: docs lint test
 
 docs:
 	@python setup.py build_sphinx
