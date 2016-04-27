@@ -1,11 +1,11 @@
 -r requirements.txt
 
-nose2
-pylint
-setuptools-lint
-sphinx
-sphinx-autobuild
-sphinx_rtd_theme
-twine
-watchdog
-wheel
+nose2>=0.6.4,<1.0.0
+pylint>=1.5.5,<2.0.0
+setuptools-lint>=0.4.1,<1.0.0
+sphinx>=1.4.1,<2.0.0
+sphinx-autobuild>=0.6.0,<1.0.0
+sphinx_rtd_theme>=0.1.9,<1.0.0
+twine>=1.6.5,<2.0.0
+watchdog>=0.8.3,<1.0.0
+wheel>=0.29.0,<1.0.0

@@ -7,6 +7,10 @@ This change log follows the conventions of
 
 ## [Unreleased][Unreleased]
 
+### Changed
+
+- Add semver constraints to dependencies.
+
 ## 0.1.0 / 2016-03-8
 
 - Initial release.

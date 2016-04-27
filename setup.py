@@ -17,8 +17,8 @@ setup(
     long_description=long_description,
     test_suite='nose2.collector.collector',
     install_requires=[
-        'numpy',
-        'scipy',
-        'pyyaml'
+        'numpy>=1.11.0,<2.0.0',
+        'scipy>=0.17.0,<1.0.0',
+        'pyyaml>=3.11,<4.0'
     ]
 )
