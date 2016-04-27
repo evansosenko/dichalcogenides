@@ -1,0 +1,17 @@
+---
+machine:
+  python:
+    version: 3.5.1
+
+dependencies:
+  pre:
+    - pip install --upgrade pip
+  override:
+    - pip install numpy
+    - pip install scipy
+    - pip install --upgrade -qr requirements.devel.txt
+
+test:
+  override:
+    - make lint
+    - make test

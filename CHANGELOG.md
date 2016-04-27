@@ -9,6 +9,7 @@ This change log follows the conventions of
 
 ### Added
 
+- Add CircleCI.
 - Add Makefile.
 - Add docutils and pygments to development dependencies.
 

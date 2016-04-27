@@ -1,7 +1,7 @@
 Dichalcogenides
 =======================
 
-|PyPI| |GitHub-license| |Requires.io| |Travis| |Documentation|
+|PyPI| |GitHub-license| |Requires.io| |CircleCI| |Documentation|
 
     Built from `makenew/python-package <https://github.com/makenew/python-package>`__.
 
@@ -14,9 +14,9 @@ Dichalcogenides
 .. |Requires.io| image:: https://img.shields.io/requires/github/razor-x/dichalcogenides.svg
    :target: https://requires.io/github/razor-x/dichalcogenides/requirements/
    :alt: Requires.io
-.. |Travis| image:: https://img.shields.io/travis/razor-x/dichalcogenides.svg
-   :target: https://travis-ci.org/razor-x/dichalcogenides
-   :alt: Travis
+.. |CircleCI| image:: https://img.shields.io/circleci/project/razor-x/dichalcogenides.svg
+   :target: https://circleci.com/gh/razor-x/dichalcogenides
+   :alt: CircleCI
 .. |Documentation| image:: https://readthedocs.org/projects/dichalcogenides/badge/?version=latest
    :target: http://dichalcogenides.readthedocs.org/en/latest/?badge=latest
    :alt: Documentation Status
