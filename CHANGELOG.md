@@ -7,6 +7,8 @@ This change log follows the conventions of
 
 ## [Unreleased]
 
+## [0.2.1] / 2016-05-17
+
 - In `Superconductor.trig_e`, correct `Δk(e)` to be `Δk(e)**2`.
 
 ## [0.2.0] / 2016-04-27
@@ -33,5 +35,6 @@ This change log follows the conventions of
 
 - Initial release.
 
-[Unreleased]: https://github.com/razor-x/dichalcogenides/compare/v0.2.0...HEAD
+[Unreleased]: https://github.com/razor-x/dichalcogenides/compare/v0.2.1...HEAD
+[0.2.1]: https://github.com/razor-x/dichalcogenides/compare/v0.2.0...v0.2.1
 [0.2.0]: https://github.com/razor-x/dichalcogenides/compare/v0.1.0...v0.2.0
