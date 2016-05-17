@@ -5,7 +5,7 @@ This project adheres to [Semantic Versioning](http://semver.org/).
 This change log follows the conventions of
 [keep a CHANGELOG](http://keepachangelog.com/).
 
-## [Unreleased][Unreleased]
+## [Unreleased]
 
 - In `Superconductor.trig_e`, correct `Δk(e)` to be `Δk(e)**2`.
 
