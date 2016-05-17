@@ -64,5 +64,5 @@ class Superconductor():
     def trig_e(self, name):
         μ = self.μ
         Δk = self.Δk
-        λk = lambda e: numpy.sqrt((e - μ)**2 + Δk(e))
+        λk = lambda e: numpy.sqrt((e - μ)**2 + Δk(e)**2)
         return lambda e: self.trig(name)(Δk(e), λk(e))
