@@ -13,7 +13,7 @@ else:
 
 setup(
     name='dichalcogenides',
-    version='0.2.1',
+    version='0.3.0',
     author='Evan Sosenko',
     author_email='razorx@evansosenko.com',
     packages=find_packages(exclude=['docs']),
