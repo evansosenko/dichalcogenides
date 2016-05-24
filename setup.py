@@ -2,8 +2,6 @@ import os
 import re
 from setuptools import find_packages, setup
 
-from dichalcogenides import __version__
-
 with open('README.rst', 'r') as f:
     long_description = f.read()
 
@@ -15,7 +13,7 @@ else:
 
 setup(
     name='dichalcogenides',
-    version=__version__,
+    version='0.2.1',
     author='Evan Sosenko',
     author_email='razorx@evansosenko.com',
     packages=find_packages(exclude=['docs']),
