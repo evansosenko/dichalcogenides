@@ -7,6 +7,10 @@ This change log follows the conventions of
 
 ## [Unreleased]
 
+### Added
+
+- Added `Superconductor.λk`.
+
 ## [0.2.1] / 2016-05-17
 
 - In `Superconductor.trig_e`, correct `Δk(e)` to be `Δk(e)**2`.
