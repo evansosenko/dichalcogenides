@@ -13,6 +13,8 @@ This change log follows the conventions of
 
 ## [0.2.1] / 2016-05-17
 
+### Fixed
+
 - In `Superconductor.trig_e`, correct `Δk(e)` to be `Δk(e)**2`.
 
 ## [0.2.0] / 2016-04-27
