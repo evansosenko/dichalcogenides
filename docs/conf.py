@@ -16,6 +16,7 @@
 import sys
 import os
 import shlex
+import pkg_resources
 
 import sphinx_rtd_theme
 
@@ -77,7 +78,7 @@ author = 'Evan Sosenko'
 # built documents.
 #
 # The short X.Y version.
-version = __import__('version').__version__
+version = pkg_resources.require('dichalcogenides')[0].version
 # The full version, including alpha/beta/rc tags.
 release = version
 
